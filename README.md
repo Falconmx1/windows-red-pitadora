@@ -9,3 +9,16 @@
     🔧 Tech: Python 3.11+, sockets, ctypes, winreg, Scapy (si se requiere), Npcap, y mucha paciencia.
 
     ⚠️ REQUIERE CORRERSE COMO ADMIN. Sin permisos, esto no sirve pa pura verga.
+
+
+   # Clona el repo
+  git clone https://github.com/Falconmx1/windows-red-pitadora.git
+
+  # Entra a la carpeta
+  cd windows-red-pitadora
+
+  # Instala dependencias
+  pip install -r requirements.txt
+
+  # Ejecuta la madre (se va a re-lanzar solo como admin)
+  python main.py
